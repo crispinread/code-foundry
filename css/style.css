@@ -2772,11 +2772,11 @@ p, ul {
   margin: 0 auto;
   max-width: 82px
 }
-
+/*
 .preface .logo path {
   fill: #2574a9
 }
-
+*/
 .preface .to-content {
   position: absolute;
   left: 50%;
@@ -2888,13 +2888,13 @@ p, ul {
   max-width: 86px
 }
 
-.home-page .preface .logo path {
+/*.home-page .preface .logo path {
   fill: white
 }
 
 .home-page .preface .to-content path {
   fill: white
-}
+}*/
 
 .is-ie .row-header, .is-ie .header, .is-ie .main-menu, .is-ie .main-menu .padder, .is-ie .main-menu .nav-pos, .is-ie .main-nav>ul>li {
   overflow: visible
